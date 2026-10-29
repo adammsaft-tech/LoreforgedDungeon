@@ -1,0 +1,21 @@
+{
+    "name": "Broderick",
+    "class": "Cleric",
+    "level": 10,
+    "race": "",
+    "background": "",
+    "strength": 10,
+    "dexterity": 10,
+    "constitution": 10,
+    "intelligence": 10,
+    "wisdom": 10,
+    "charisma": 10,
+    "hp_current": 10,
+    "hp_max": 10,
+    "armor_class": 10,
+    "initiative": 0,
+    "speed": 30,
+    "inventory": [],
+    "spells": [],
+    "notes": ""
+}

@@ -1,0 +1,10 @@
+{
+  "goblin": {
+    "name": "Goblin Scout",
+    "health": 25,
+    "attack_bonus": 2,
+    "damage": "1d6",
+    "defense": 12,
+    "experience": 25
+  }
+}
