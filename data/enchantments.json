@@ -1,0 +1,12 @@
+
+{
+  "vampiric_rune": {
+    "name": "Vampiric Rune",
+    "unlock_room": 5,
+    "trigger": "on_successful_hit",
+    "activation_chance": 0.20,
+    "heal_amount": 5,
+    "duration": "run",
+    "stackable": false
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "player":{"max_health":100,"armor_class":12,"attack_bonus":6,"starting_weapon":"rusty_sword"},
+  "rewards":{"heal_amount":15},
+  "rooms":[
+    {"name":"Goblin Warrens","enemy":"goblin","chest_weapon":"iron_sword"},
+    {"name":"Goblin Lookout","enemy":"goblin_archer","chest_weapon":"hunter_bow"},
+    {"name":"Goblin Stronghold","enemy":"goblin_brute","chest_weapon":"steel_sword"},
+    {"name":"Forgotten Crypt","enemy":"skeleton","chest_weapon":"battle_axe"},
+    {"name":"Hall of Bones","enemy":"skeleton_archer","chest_weapon":"enchanted_blade"},
+    {"name":"Crypt Sanctum","enemy":"crypt_guardian","chest_weapon":"runic_sword"},
+    {"name":"Orc Barracks","enemy":"orc_warrior","chest_weapon":"dragonsteel_axe"},
+    {"name":"Bloodstone Passage","enemy":"orc_berserker","chest_weapon":"guardian_blade"},
+    {"name":"Ancient Gate","enemy":"ancient_guardian","chest_weapon":"hydra_slayer"},
+    {"name":"Hydra's Lair","enemy":"hydra","chest_weapon":null}
+  ]
+}

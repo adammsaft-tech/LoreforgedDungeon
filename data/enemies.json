@@ -1,10 +1,12 @@
 {
-  "goblin": {
-    "name": "Goblin Scout",
-    "health": 25,
-    "attack_bonus": 2,
-    "damage": "1d6",
-    "defense": 12,
-    "experience": 25
-  }
+  "goblin": {"name":"Goblin Scout","health":25,"attack_bonus":2,"damage":"1d6","defense":12,"experience":25},
+  "goblin_archer": {"name":"Goblin Archer","health":20,"attack_bonus":3,"damage":"1d6","defense":13,"experience":30},
+  "goblin_brute": {"name":"Goblin Brute","health":30,"attack_bonus":3,"damage":"1d8","defense":12,"experience":40},
+  "skeleton": {"name":"Skeleton Warrior","health":29,"attack_bonus":3,"damage":"1d8","defense":13,"experience":45},
+  "skeleton_archer": {"name":"Skeleton Archer","health":25,"attack_bonus":4,"damage":"1d8","defense":12,"experience":50},
+  "crypt_guardian": {"name":"Crypt Guardian","health":38,"attack_bonus":4,"damage":"1d8","defense":14,"experience":65},
+  "orc_warrior": {"name":"Orc Warrior","health":42,"attack_bonus":4,"damage":"1d10","defense":14,"experience":75},
+  "orc_berserker": {"name":"Orc Berserker","health":48,"attack_bonus":5,"damage":"1d10","defense":13,"experience":85},
+  "ancient_guardian": {"name":"Ancient Guardian","health":55,"attack_bonus":5,"damage":"1d10","defense":15,"experience":100},
+  "hydra": {"name":"The Hydra","health":85,"attack_bonus":5,"damage":"2d6","defense":15,"experience":250}
 }

@@ -1,0 +1,12 @@
+{
+  "rusty_sword":{"name":"Rusty Sword","damage":"1d8","bonus":0},
+  "iron_sword":{"name":"Iron Sword","damage":"1d8","bonus":1},
+  "hunter_bow":{"name":"Hunter's Bow","damage":"1d10","bonus":0},
+  "steel_sword":{"name":"Steel Sword","damage":"1d10","bonus":1},
+  "battle_axe":{"name":"Battle Axe","damage":"1d12","bonus":0},
+  "enchanted_blade":{"name":"Enchanted Blade","damage":"1d10","bonus":2},
+  "runic_sword":{"name":"Runic Sword","damage":"1d12","bonus":2},
+  "dragonsteel_axe":{"name":"Dragonsteel Axe","damage":"2d6","bonus":2},
+  "guardian_blade":{"name":"Guardian Blade","damage":"2d6","bonus":3},
+  "hydra_slayer":{"name":"Hydra Slayer","damage":"2d8","bonus":3}
+}
